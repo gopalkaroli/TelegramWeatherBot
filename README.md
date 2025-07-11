@@ -24,14 +24,7 @@ A simple and intelligent Weather Bot that provides real-time weather information
     https://t.me/CloudyPal_bot
     ##start
    <img width="319" height="486" alt="image" src="https://github.com/user-attachments/assets/911007cd-503a-4898-ae0f-0c3a73f78039" />
-
-   ##enter city name
-
    
-   <img width="373" height="449" alt="image" src="https://github.com/user-attachments/assets/3b3c5545-50e2-4582-9b99-583c51dce902" />
-
-
-
    <img width="380" height="494" alt="image" src="https://github.com/user-attachments/assets/6f845ba2-ba9f-4ea4-87b3-2731cbcbc635" />
 
 
