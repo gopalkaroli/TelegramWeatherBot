@@ -20,12 +20,15 @@ A simple and intelligent Weather Bot that provides real-time weather information
 1. **Clone the Repository**
    ```bash
    git clone git@github.com:gopalkaroli/TelegramWeatherBot.git
-2. Telegram bot click
-    https://t.me/CloudyPal_bot
-    ##start
-   <img width="319" height="486" alt="image" src="https://github.com/user-attachments/assets/911007cd-503a-4898-ae0f-0c3a73f78039" />
-   
-   <img width="380" height="494" alt="image" src="https://github.com/user-attachments/assets/6f845ba2-ba9f-4ea4-87b3-2731cbcbc635" />
+
+2. Run C# console app
+3. Go to   https://t.me/CloudyPal_bot
+4. Click on start
+5. Enter city name
+
+<img width="319" height="486" alt="image" src="https://github.com/user-attachments/assets/911007cd-503a-4898-ae0f-0c3a73f78039" />
+   ![Alt text]
+<img width="380" height="494" alt="image" src="https://github.com/user-attachments/assets/6f845ba2-ba9f-4ea4-87b3-2731cbcbc635" />
 
 
 
